@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>border - 4.png</file>
+    <file>BG_2.png</file>
+    <file>border - 3.png</file>
+    <file>border - 2.png</file>
+    <file>border - 1.png</file>
+    <file>sad.png</file>
+    <file>BG.png</file>
+    <file>happy.png</file>
+    <file>background.png</file>
+  </qresource>
+</RCC>
